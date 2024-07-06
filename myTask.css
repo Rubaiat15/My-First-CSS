@@ -1,0 +1,34 @@
+#superman{
+    background-color: rgb(231, 13, 13);
+    border:#000;
+    border-radius: 20px;
+    box-shadow: 20px,40px,60px color(xyx red green blue);
+    
+}
+
+#ironman{
+    color:aliceblue;
+    text-align: center;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    background-image: url(Venom.jpg);
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    box-shadow: 10px 10px 20px blueviolet;
+    margin: 40px;
+}
+
+
+#hawk{
+    /* display: none; */
+    /* visibility: hidden; */
+    border: 20px solid blue;
+}
+
+.optimus{
+    border: 2px solid purple;
+    display:inline-block;
+}
